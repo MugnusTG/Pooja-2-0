@@ -16,10 +16,10 @@ Its Simple To Use Me..☺️,Just Add Me To Your Group As Admin,Thats All I Will
 🔖 𝑸𝒖𝒐𝒕𝒆: ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+- Source - https://t.me/MyGithubSorceCode 
 
 <b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+- <a href=https://t.me/MagnusTG>Magnus TG 🇮🇳</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
