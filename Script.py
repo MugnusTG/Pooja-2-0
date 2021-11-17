@@ -1,7 +1,8 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
 HOW ARE YOU DUDE 🤩,Nice To Meet You🙌 𝖨'𝗆 𝗃𝗎𝗌𝗍 𝖺 𝗌𝗂𝗆𝗉𝗅𝖾 𝗉𝗋𝖾 - 𝖿𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝖾𝖽 𝖺𝗎𝗍𝗈𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍
-Its Simple To Use Me..☺️,Just Add Me To Your Group As Admin,Thats All I Will Provide Movies There..🥰"""
+Its Simple To Use Me..☺️,Just Add Me To Your Group As Admin,Thats All I Will Provide Movies There☺️..
+©Maintaned by <a href=https://t.me/MagnusTG>Magnus TG 🇮🇳</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
