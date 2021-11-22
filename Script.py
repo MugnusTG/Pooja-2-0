@@ -4,7 +4,7 @@ class script(object):
 𝑀𝑒𝑒𝑡 𝑌𝑜𝑢 ☺️ 𝐼 𝑎𝑚 𝐽𝑢𝑠𝑡 𝐴 𝑆𝑖𝑚𝑝𝑙𝑒 𝑃𝑟𝑒 𝐹𝑢𝑛𝑐𝑡𝑖𝑜𝑛𝑒𝑑 𝐴𝑢𝑡𝑜𝐹𝑖𝑙𝑡𝑒𝑟𝐵𝑜𝑡
 𝑌𝑜𝑢 𝑐𝑎𝑛 𝑎𝑑𝑑 𝑡𝑜 𝑚𝑒 𝑦𝑜𝑢 𝑔𝑟𝑜𝑢𝑝☺️
 
-©𝑀𝑎𝑖𝑛𝑡𝑎𝑖𝑛𝑒𝑑 𝑏𝑦: <a href=https://t.me/MagnusTG>Magnus TG 🇮🇳</a>"""
+©𝑀𝑎𝑖𝑛𝑡𝑎𝑖𝑛𝑒𝑑 𝑏𝑦: <a href=https://t.me/MagnusTG>𝑴agnus TG 🇮🇳</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
