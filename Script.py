@@ -8,14 +8,15 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-➪ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MagnusTG>Magnus TG 🇮🇳</a>
-➪ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href=https://docs.pyrogram.org/>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
-➪ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴: <a href=https://t.me/hagayhwvwhtf>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-➪ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 : 𝙴𝚟𝚎𝚛𝚢𝚘𝚗𝚎 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚓𝚘𝚞𝚛𝚗𝚎𝚢
-➪ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-➪ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=https://www.mongodb.com>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
-➪ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <a href=https://dashboard.heroku.com/>𝙷𝙴𝚁𝙾𝙺𝚄</a>
-➪ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ 𝙱𝙴𝚃𝙰 ]
+➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓: <a href=https://t.me/MagnusTG>Magnus TG 🇮🇳</a>
+➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚: <a href=https://docs.pyrogram.org/>𝑷𝚈𝚁𝙾𝙶𝚁𝙰𝙼 📜</a>
+➪ 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆: <a href=https://t.me/hagayhwvwhtf> 𝑪𝙻𝙸𝙲𝙺 𝑯𝙴𝚁𝙴</a>
+➪ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔: 𝙴𝚟𝚎𝚛𝚢𝚘𝚗𝚎 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚓𝚘𝚞𝚛𝚗𝚎𝚢
+➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆: 𝑷𝚈𝚃𝙷𝙾𝙽 𝟹
+➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆: <a href=https://www.mongodb.com>𝑴𝙾𝙽𝙶𝙾 𝙳𝙱</a>
+➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓: <a href=https://dashboard.heroku.com/>𝑯𝙴𝚁𝙾𝙺𝚄</a>
+➪ 𝑩𝒖𝒊𝒍𝒅 𝑺𝒕𝒂𝒕𝒖𝒔: v2.0.1 [ 𝙱𝙴𝚃𝙰 ]
+
 🔖 𝑸𝒖𝒐𝒕𝒆: ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
