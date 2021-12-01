@@ -452,6 +452,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Connection', callback_data='coct'),
             InlineKeyboardButton('Extra Mods', callback_data='extra')
             ],[
+            InlineKeyboardButton('Telegrah', callback_data='telegraph'),
+            ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('🔮 Status', callback_data='stats')
         ]]
@@ -551,6 +553,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('👩‍🦯 Back', callback_data='help'),
             InlineKeyboardButton('♻️', callback_data='rfrsh')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.Telegraph,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+     elif query.data == "telegraph":
+        buttons = [[
+            InlineKeyboardButton('👩‍🦯 Back', callback_data='help')     
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         total = await Media.count_documents()
